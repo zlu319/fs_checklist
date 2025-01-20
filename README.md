@@ -6,6 +6,8 @@ Author: zlu319
 
 *Licensed under the MIT License*
 
+NOTE: This project has been moved to GitLab: [https://gitlab.com/zlu319/fs_checklist](https://gitlab.com/zlu319/fs_checklist)
+
 The program walks through all files and subdirectories of a specified directory in  a filesystem and generates a checklist with user-specified columns in the form of a CSV file. One may then open the CSV file with their spreadsheet editor of choice, such as LibreOffice Calc or Microsoft Excel.
 
 The output csv file will have the following format
